@@ -12,6 +12,7 @@ Dockerfile
 .vscode/
 Tests/
 main.py
+uv.lock
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
